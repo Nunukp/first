@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 48px 165px 48px 167px;
+}
+.shortly{
+    display: flex;
+}
+.shortly ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style-type: none;
+    padding-left: 30px;
+}
+ul a{
+    text-decoration: none;
+    color: #808080;
+    font-size: 15px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 37px;
+}
+.btn ul{
+    list-style-type: none;
+}
+.btn button{
+    padding: 9px 24px 9px 24px;
+    color: #fff;
+    background: #2BD0D0;
+border: none;
+border-radius: 20px;
+}
+.chi h1{
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: -2px;
+    text-align: left;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.chi{
+    width: 563px;
+height: 351px;
+padding: 30px;
+padding-top: 50px;
+}
+.chi p{
+    color: #808080;
+font-size: 22px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0.15000000596046448px;
+text-align: left;
+}
+ 
+.chi button{
+    width: 140px;
+height: 56px;
+top: 295px;
+border-radius: 20px;
+background-color: #2BD0D0;
+border:none;
+color: white;
+margin-top: 38px;
+}
+.in{
+    width: 1110px;
+    position: relative;
+height: 168px;
+left: 140px;
+background: radial-gradient( #4B3F6B,  #3A3054);
+border-radius: 10px;
+top: 100px;
+}
+.as{
+    width: 1440px;
+height: 100px;
+top: 801px;
+background-color: brown;
+}
+.as1 h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 11px;
+    padding-bottom: 13px;
+}
+.as1{
+    width: 1440px;
+height: 150px;
+top: 801px;
+background-color: brown;
+}
+.as1 button{
+    width: 140px;
+height: 56px;
+top: 295px;
+border-radius: 20px;
+background-color: #2BD0D0;
+border:none;
+color: white;
+margin-left: 640px;
+}
+.footer{
+    width: 1440px;
+height: 150.2px;
+top: 1071px;
+background-color: #232127;
+}
+.in input{
+    padding: 14px 536px 14px 32px;
+    position: relative;
+    width: 769px;
+height: 64px;
+left: 64px;
+top: 52px;
+border-radius: 10px;
+border: none;
+}
+.in button {
+    padding: 18px 40px 18px 40px;
+    position: relative;
+    width: 188px;
+height: 64px;
+ top: 52px; 
+left: 100px;
+border-radius: 10px;
+border: none;
+background-color: #2BD0D0;
+color: #fff;
+}
+.sa a{
+    color: #fff;
+}
+.saa{
+  padding: 68px 170px 54px 165px;
+}
+.lohos{
+    margin-left: 500px;
+}
